@@ -2,3 +2,7 @@ requests
 telebot
 Faker
 pycountry
+time
+uuid
+random
+bs4
