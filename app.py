@@ -11,7 +11,7 @@ import time
 from faker import Faker
 
 faker = Faker()
-token = "7260472734:AAEVjPeDqqHru05Yq9q7qO-gL6cLz1qE7wM"
+token = "8134364639:AAGOEGkK5vRqHoCKK-Q8PSl9k132p00Kerw"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 
